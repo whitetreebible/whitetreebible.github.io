@@ -1,6 +1,10 @@
-# WhiteTreeBible
+# Home
 
 Welcome to **WhiteTreeBible**! This is a collection of passion projects started by a software engineer who loves both coding and the Bible. The goal of these projects is to provide useful tools and resources for Bible study. 
+
+<!-- <iframe width="100%" height="400px"
+src="https://www.youtube.com/embed/tgbNymZ7vqY">
+</iframe> -->
 
 ## Projects
 

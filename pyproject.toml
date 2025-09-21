@@ -11,4 +11,5 @@ dependencies = [
 ]
 
 [tool.tomlscript]
+serve = "mkdocs serve"
 deploy = "mkdocs gh-deploy"
