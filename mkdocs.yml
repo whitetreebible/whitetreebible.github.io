@@ -5,7 +5,6 @@ use_directory_urls: true
 theme:
   name: material
   features:
-    - navigation.tabs
     - navigation.sections
     - navigation.expand
     - navigation.top
@@ -25,6 +24,16 @@ theme:
         icon: material/brightness-4
         name: Switch to light mode
 
+nav:
+  - Home: index.md
+  - Tools:
+    - Connections: https://connections.whitetreebible.com
+    - Blog: https://blog.whitetreebible.com/blog
+  - About:
+    - About Us: about/about-us.md
+    - Get Updates: about/get-email-updates.md
+    - Support Us: about/support-us.md
+
 plugins:
   - search
   - i18n:
@@ -38,3 +47,7 @@ plugins:
           name: English
           build: true
           site_name: "WhiteTreeBible"
+
+markdown_extensions:
+  - footnotes   # needed for footnotes to render
+  - attr_list   # needed for _target links to render

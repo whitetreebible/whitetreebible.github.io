@@ -14,10 +14,10 @@ A web application that helps users explore connections between different Bible c
 This project is in early development. [Stay tuned for updates](../about/get-email-updates/)!
 
 ### [Blog](https://blog.whitetreebible.com)
-A blog where I share insights, reflections, and technical details about the projects. It also includes articles on Bible study techniques and software development.
+A blog where I share insights, reflections, and technical details about the projects. It also includes articles on Bible study techniques, interesting Bible connections discovered, and the intersection between software and Bible.
 
 ### Hebrew Flashcards
-A web app to help users learn and memorize Hebrew vocabulary through flashcards and daily reading.
+An app to help users learn and memorize Hebrew vocabulary through flashcards and daily reading.
 
 Doesn't exist, yet, but it'd be cool to build.
 
