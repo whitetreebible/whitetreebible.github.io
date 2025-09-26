@@ -2,20 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <url>
         <loc>https://whitetreebible.com/</loc>
-        <lastmod>2025-09-21</lastmod>
+        <lastmod>2025-09-26</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://whitetreebible.com/"/>
     </url>
     <url>
         <loc>https://whitetreebible.com/about/about-us/</loc>
-        <lastmod>2025-09-21</lastmod>
+        <lastmod>2025-09-26</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://whitetreebible.com/about/about-us/"/>
     </url>
     <url>
         <loc>https://whitetreebible.com/about/get-email-updates/</loc>
-        <lastmod>2025-09-21</lastmod>
+        <lastmod>2025-09-26</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://whitetreebible.com/about/get-email-updates/"/>
+    </url>
+    <url>
+        <loc>https://whitetreebible.com/about/support-us/</loc>
+        <lastmod>2025-09-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://whitetreebible.com/about/support-us/"/>
     </url>
 </urlset>
